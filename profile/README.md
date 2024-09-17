@@ -6,6 +6,7 @@ We are a consulting company helping business in their use of generative AI to he
 
 ## 🤖 Why Bot Resources ?
 Just like Human Resources, Bot Resources is here to help you get the right bot (or human specialised in bots !) consultant for your company.
+Our objective: Empower organization with Gen AI, serving business, not technology
 
 ## 👩‍💻 Want to see more ?
-Learn more about us at [botresources.ai](botresources.ai), or email us at [contact@botresources.ai](mailto:contact@botresources.ai) !
+Learn more about us at [botresources.ai](https://botresources.ai), or email us at [contact@botresources.ai](mailto:contact@botresources.ai) !
